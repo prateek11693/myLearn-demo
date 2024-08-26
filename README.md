@@ -1,2 +1,2 @@
 # myLearn-demo
-Author - Prateek Gupta
+Author - Prateek Gupta (Prateek)
